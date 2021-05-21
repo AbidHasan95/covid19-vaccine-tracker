@@ -1,5 +1,5 @@
 # CoWin Vaccination Session Tracker
-## A React Native application to help you keep track of available covid-19 vaccination appointments in the next 7 days
+### A React Native application to help you keep track of available covid-19 vaccination appointments in the next 7 days
 
 <!-- <p align="center">Screenshots</p> -->
 <!-- ![welcome screen](assets/welcome_screen.png) -->
